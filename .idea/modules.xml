@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/swagger-springmvc-example.iml" filepath="$PROJECT_DIR$/swagger-springmvc-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/swagger-springmvc-example.iml" filepath="$PROJECT_DIR$/swagger-springmvc-example.iml" />
     </modules>
   </component>
 </project>
